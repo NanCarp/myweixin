@@ -5,7 +5,7 @@ import com.jfinal.weixin.sdk.api.ApiConfig;
 import com.jfinal.weixin.sdk.api.ApiResult;
 import com.jfinal.weixin.sdk.api.MenuApi;
 import com.jfinal.weixin.sdk.jfinal.ApiController;
-import com.util.Constant;
+import com.utils.Constant;
 
 public class WeixinApiController extends ApiController {
 	public void index() {
